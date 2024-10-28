@@ -4,14 +4,6 @@ Sudoku Solver
 
 Now, let’s get started on building our Sudoku Solver using Python.
 
-
-Video Player
-
-00:00
-00:46
-
-
-
 step-by-step guide on how to build a Sudoku Solver using Python:
 step 1: open any python code Editor.
 
